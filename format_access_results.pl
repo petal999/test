@@ -35,12 +35,18 @@ while (my $line = <INPUT>) {
    
 my @group = split(/\\/, $line);
    
-my $leader = $group[3];
+my $leader = $group[6];
+   
+my $job = $group[7];
+   my $mascot = $group[17];
    
 
-   
-   
-print "$group[1]\n";
+#print "$group[17]\n";  
+print OUT "$leader\t$job\t$mascot\n";
+
+#foreach (@group) {
+#   print "$_\n";
+#   }
 
 }
 
