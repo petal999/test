@@ -1,2 +1,2 @@
 \rubbish\path\to\remove\Proteomics Projects\personA\job number A1\	another\really\long\path\to\het\rid\of\date\mascot1.dat
-\rubbish\path\to\remove\Proteomics Projects\personB\job number B1\	another\really\long\path\to\het\rid\of\date\mascot2.dat
+\\rubbish\path\to\remove\Proteomics Projects\personB\job number B1\	another\really\long\path\to\het\rid\of\date\mascot2.dat

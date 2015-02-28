@@ -34,19 +34,26 @@ while (my $line = <INPUT>) {
    #separate long path into an array
    
 my @group = split(/\\/, $line);
+   my $folder = $group[5];
    
 my $leader = $group[6];
    
 my $job = $group[7];
    my $mascot = $group[17];
-   
-
-#print "$group[17]\n";  
-print OUT "$leader\t$job\t$mascot\n";
-
+  
 #foreach (@group) {
 #   print "$_\n";
 #   }
+   
+
+#print "$group[17]\n";  
+#print "$leader\t$job\t$mascot\n";
+
+if ($folder =~ /Proteomics Projects/){
+	print "yes matches\n";
+} else {
+	print "nope no Proteomics Projects\n";
+	}
 
 }
 
