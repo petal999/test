@@ -18,43 +18,48 @@ my $outfile = "for_excel.tab";
 #check file opens
 
 unless (open INPUT, "$input"){
-
 	print "Input file does not open\n";
-        }
+}
         
 unless (open OUT, ">$outfile"){
-       print "Cannot create output file\n";
-       }
+    print "Cannot create output file\n";
+}
        
 #read input with while loop
 while (my $line = <INPUT>) {
+    chomp $line;
 
-   chomp $line;
-
-   #separate long path into an array
-   
+    #separate long path into an array
+	
 my @group = split(/\\/, $line);
-   my $folder = $group[5];
-   
-my $leader = $group[6];
-   
-my $job = $group[7];
-   my $mascot = $group[17];
-  
-#foreach (@group) {
-#   print "$_\n";
-#   }
-   
-
-#print "$group[17]\n";  
-#print "$leader\t$job\t$mascot\n";
-
-if ($folder =~ /Proteomics Projects/){
-	print "yes matches\n";
-} else {
-	print "nope no Proteomics Projects\n";
+	my $location = -1;
+	for (my $n = 0; $n < $#group; $n++) {
+        my $elem = $group[$n];
+        if ($elem =~ /Proteomics Projects/) {
+            $location = $n;
+        }
 	}
+   
+    if ($location == -1) {
+        # handle somehow!
+        print "You uploaded it wrong\n";   
+    }
+   
+    
+my $leader = $group[$location + 1];
+   
+ my $job = $group[$location + 2];
+    my $mascot = $group[$location + 12];
+  
+    #foreach (@group) {
+	#   print "$_\n";
+	#   }
 
+
+	#print "$group[17]\n";  
+	#print "$leader\t$job\t$mascot\n";
+
+    print "$leader\t$job\t$mascot\n";
 }
 
 close INPUT;
