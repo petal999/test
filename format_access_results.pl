@@ -32,11 +32,15 @@ while (my $line = <INPUT>) {
    chomp $line;
 
    #separate long path into an array
-my @group = split('\\,$line);
-my $leader = $group[7];
-my $job = $group[8]; 
+   
+my @group = split(/\\/, $line);
+   
+my $leader = $group[3];
+   
 
-print OUT "$leader\t$job\n";
+   
+   
+print "$group[1]\n";
 
 }
 
