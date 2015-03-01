@@ -7,7 +7,6 @@ use warnings;
 
 
 #be nice comment what program is for and usage
-
 my $usage = "to use this program you need to type perl format_access_results.pl and provide a results.txt";
 
 #open files and set main variables
@@ -41,8 +40,7 @@ my @group = split(/\\/, $line);
 	}
    
     if ($location == -1) {
-        # handle somehow!
-        print "You uploaded it wrong\n";   
+        print OUT "This script expected a path including Proteomics Protjects. Found \t$line\n";   
     }
    
     
@@ -57,9 +55,8 @@ my $leader = $group[$location + 1];
 
 
 	#print "$group[17]\n";  
-	#print "$leader\t$job\t$mascot\n";
-
-    print "$leader\t$job\t$mascot\n";
+	
+    print OUT "$leader\t$job\t$mascot\n";
 }
 
 close INPUT;
