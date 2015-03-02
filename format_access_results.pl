@@ -7,11 +7,11 @@ use warnings;
 
 
 #be nice comment what program is for and usage
-my $usage = "to use this program you need to type perl format_access_results.pl and provide a results.txt";
+my $usage = "to use this program you need to type perl format_access_results.pl and provide a results.txt file";
 
 #open files and set main variables
 my $input = "results.txt";
-my $outfile = "for_excel.tab";
+my $outfile = "for_excel.txt";
 
 
 #check file opens
@@ -36,27 +36,22 @@ my @group = split(/\\/, $line);
         my $elem = $group[$n];
         if ($elem =~ /Proteomics Projects/) {
             $location = $n;
+     
+         my $leader = $group[$location + 1];
+         my $job = $group[$location + 2];
+         my $remainder = $group[$location +4];
+
+            my @mascot = split(/\//, $remainder);
+            my @msfile = split(/\t/,$mascot[0]);
+            
+            print OUT "$leader\t$job\t$msfile[0]\t$mascot[7]\t$mascot[8]\n";    
         }
 	}
-   
-    if ($location == -1) {
-        print OUT "This script expected a path including Proteomics Protjects. Found \t$line\n";   
-    }
-   
-    
-my $leader = $group[$location + 1];
-   
- my $job = $group[$location + 2];
-    my $mascot = $group[$location + 12];
-  
-    #foreach (@group) {
-	#   print "$_\n";
-	#   }
 
+   if ($location == -1) {
+       print OUT "This script expected a path including Proteomics Protjects. Instead it found \t$line\n";   
+    }	
 
-	#print "$group[17]\n";  
-	
-    print OUT "$leader\t$job\t$mascot\n";
 }
 
 close INPUT;
