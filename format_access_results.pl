@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-#written by Alex 27/02/15
+#written by Alex and Simon 27/02/15
 #to quickly format results from Mascot Daemon access files 
 
 

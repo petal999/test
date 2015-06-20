@@ -1,0 +1,1233 @@
+This script expected a path including Proteomics Protjects. Instead it found 	input_data_file	result_url
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Users\lfsmbu\Desktop\js_aj131031_C4.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131107/F001273.dat
+demo_data	js_aj131031_C4.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131107/F001274.dat			
+Warwick_Fusion_part 1	Sample_5_6			
+Warwick_Fusion_part 1	Sample_5_6			
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_01.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001288.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_02.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001289.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_03.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001290.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_DDDT_IT_EZ_50cm_150min_05.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001291.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_01.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001292.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_02.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001293.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_03.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131115/F001294.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_04.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131116/F001295.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_01.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131118/F001298.dat
+Warwick_Fusion_part 1	Sample_5_6			
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\js_aj131031_C4.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001305.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\js_aj131031_MG4.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001307.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_01.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001306.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_02.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001308.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_C2_TopS_HCD_IT_EZ_50cm_150min_03.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001309.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_DDDT_IT_EZ_50cm_150min_05.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001310.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_01.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131119/F001311.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_02.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131120/F001312.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_03.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131120/F001313.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Warwick_MG2_TopS_HCD_IT_EZ_50cm_150min_04.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131120/F001314.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\G2_112813_04_CID.pkl	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131203/F001344.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\G2_112813_06_CID.pkl	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131203/F001345.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_1	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001407.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_2	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001408.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_3	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001409.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_4	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001410.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_5	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001411.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_6	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001412.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_7	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001413.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_8	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001414.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_9	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001415.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_finalset	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001416.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_1	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001417.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_2	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001418.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_3	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001419.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_4	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001420.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_5	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001421.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_6	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001422.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_7	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001423.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_8	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20131212/F001424.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_9	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001425.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_03.mgf_finalset	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20131212/F001426.dat
+Smith Corinne	MS14-040 MB1	G2_031814_01_CID.pkl	20140319	F001583.dat
+Smith Corinne	MS14-040 MB1	G2_031814_02_CID.pkl	20140319	F001584.dat
+Smith Corinne	MS14-040 MB1	G2_031814_01_CID.pkl	20140319	F001585.dat
+Smith Corinne	MS14-040 MB1	G2_031814_02_CID.pkl	20140319	F001586.dat
+Smith Corinne	MS14-041 KM3	G2_031814_03_CID.pkl	20140319	F001588.dat
+Smith Corinne	MS14-041 KM3	G2_031814_04_CID.pkl	20140319	F001590.dat
+Smith Corinne	MS14-041 KM3	G2_031814_05_CID.pkl	20140319	F001593.dat
+Smith Corinne	MS14-041 KM3	G2_031814_20_CID.pkl	20140319	F001591.dat
+Smith Corinne	MS14-041 KM3	G2_031814_20_CID.pkl	20140319	F001592.dat
+Smith Corinne	MS14-041 KM3	G2_031814_06_CID.pkl	20140319	F001594.dat
+Smith Corinne	MS14-041 KM3	G2_031814_21_CID.pkl	20140319	F001595.dat
+Smith Corinne	MS14-041 KM3	G2_031814_21_CID.pkl	20140319	F001596.dat
+Smith Corinne	MS14-041 KM3	G2_031814_22_CID.pkl	20140319	F001599.dat
+Smith Corinne	MS14-041 KM3	G2_031814_22_CID.pkl	20140319	F001598.dat
+Smith Corinne	MS14-041 KM3	G2_031814_07_CID.pkl	20140319	F001597.dat
+Smith Corinne	MS14-041 KM3	G2_031814_08_CID.pkl	20140319	F001600.dat
+Smith Corinne	MS14-041 KM3	G2_031814_09_CID.pkl	20140319	F001601.dat
+Smith Corinne	MS14-041 KM3	G2_031814_10_CID.pkl	20140319	F001602.dat
+Smith Corinne	MS14-041 KM3		20140319	F001603.dat
+Smith Corinne	MS14-041 KM3	G2_031814_12_CID.pkl	20140319	F001604.dat
+Smith Corinne	MS14-041 KM3	G2_031814_13_CID.pkl	20140319	F001605.dat
+Smith Corinne	MS14-041 KM3	G2_031814_14_CID.pkl	20140319	F001606.dat
+Smith Corinne	MS14-041 KM3	G2_031814_15_CID.pkl		
+Smith Corinne	MS14-041 KM3	G2_031814_16_CID.pkl	20140320	F001610.dat
+Smith Corinne	MS14-041 KM3	G2_031814_03_CID.pkl	20140320	F001611.dat
+Smith Corinne	MS14-041 KM3	G2_031814_17_CID.pkl	20140320	F001612.dat
+Smith Corinne	MS14-041 KM3	G2_031814_18_CID.pkl	20140320	F001613.dat
+Smith Corinne	MS14-041 KM3	G2_031814_03_CID.pkl	20140320	F001615.dat
+Smith Corinne	MS14-041 KM3	G2_031814_19_CID.pkl	20140320	F001614.dat
+Smith Corinne	MS14-041 KM3	G2_031814_03_CID.pkl	20140320	F001616.dat
+Smith Corinne	MS14-041 KM3	MS14-041 KM3.SPL.SPL		
+Smith Corinne	MS14-041 KM3	G2_031814_03_CID.pkl	20140320	F001622.dat
+Smith Corinne	MS14-041 KM3	G2_031814_04_CID.pkl	20140320	F001623.dat
+Smith Corinne	MS14-041 KM3	G2_031814_05_CID.pkl	20140320	F001624.dat
+Smith Corinne	MS14-041 KM3	G2_031814_06_CID.pkl	20140320	F001625.dat
+Smith Corinne	MS14-041 KM3	G2_031814_07_CID.pkl	20140320	F001626.dat
+Smith Corinne	MS14-041 KM3	G2_031814_08_CID.pkl	20140320	F001627.dat
+Smith Corinne	MS14-041 KM3	G2_031814_09_CID.pkl	20140320	F001628.dat
+Smith Corinne	MS14-041 KM3	G2_031814_10_CID.pkl	20140320	F001629.dat
+Smith Corinne	MS14-041 KM3	G2_031814_11_CID.pkl	20140320	F001630.dat
+Smith Corinne	MS14-041 KM3	G2_031814_12_CID.pkl	20140320	F001631.dat
+Smith Corinne	MS14-041 KM3	G2_031814_13_CID.pkl	20140320	F001632.dat
+Smith Corinne	MS14-041 KM3	G2_031814_14_CID.pkl	20140320	F001633.dat
+Smith Corinne	MS14-041 KM3	G2_031814_15_CID.pkl	20140320	F001634.dat
+Smith Corinne	MS14-041 KM3	G2_031814_16_CID.pkl	20140320	F001635.dat
+Smith Corinne	MS14-041 KM3	G2_031814_17_CID.pkl	20140320	F001636.dat
+Smith Corinne	MS14-041 KM3	G2_031814_18_CID.pkl	20140320	F001637.dat
+Smith Corinne	MS14-041 KM3	G2_031814_19_CID.pkl	20140320	F001638.dat
+Smith Corinne	MS14-041 KM3	G2_031814_20_CID.pkl	20140320	F001639.dat
+Smith Corinne	MS14-041 KM3	G2_031814_21_CID.pkl	20140320	F001640.dat
+Smith Corinne	MS14-041 KM3	G2_031814_22_CID.pkl	20140320	F001641.dat
+Smith Corinne	MS14-041 KM3	G2_031814_15_CID.pkl	20140320	F001642.dat
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+This script expected a path including Proteomics Protjects. Instead it found 	D:\C_TSnNTP_Guan_SCX_QExactive_Run1_021313_04.mgf_6	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140327/F001773.dat
+Wellington	External Hard Drive	Converted mgf files		
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Converted mgf files\managable_mgf_file_sizes\B_TSnNXP_Guan_SCX_QExactive_Run1_021513_03.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140403/F001788.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\OT_040314_29.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Ashley_02.mgf_finalset	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001793.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040314_08.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\033114-06_140401003125.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001795.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_01.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_02.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_03.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_04.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_01.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_02.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_03.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_04.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_05.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_06.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_07.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_08.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_21.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001809.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_22.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001810.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_23.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001811.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_24.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001812.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_25.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001813.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_26.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001814.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_27.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001815.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_01.mzML	
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_25.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001817.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_26.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001818.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_27.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001819.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_21.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001820.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_22.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001821.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_23.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001822.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_24.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001823.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_28.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001824.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_29.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001825.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_30.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001826.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_31.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001827.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_32.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001828.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_33.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001829.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_34.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001830.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_35.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001831.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_36.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001832.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_37.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001833.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_38.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001834.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_39.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001835.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_40.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001836.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_41.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001837.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_42.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001838.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_43.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001839.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_44.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001840.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_45.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001841.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_46.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001842.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_47.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001843.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_48.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results.pl?file=../data/20140407/F001844.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_49.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001845.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_50.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001846.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_51.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001847.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_52.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001848.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_53.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001849.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_54.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001850.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_55.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001851.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_56.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001852.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_57.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001853.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_58.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001854.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_59.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001855.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_60.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001856.dat
+This script expected a path including Proteomics Protjects. Instead it found 	D:\temp_data\Fusion test mzML files\OT_040414_61.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140407/F001857.dat
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	Data			
+Fusion Test Data	Data			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	OT_080414_10.raw		
+Fusion Test Data	Data	OT_080414_11.raw		
+Fusion Test Data	Data	OT_080414_12.raw		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	OT_080414_13.raw		
+Fusion Test Data	Data	OT_080414_14.raw		
+Fusion Test Data	Data	OT_080414_15.raw		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	OT_080414_10.raw		
+Fusion Test Data	Data	OT_080414_11.raw		
+Fusion Test Data	Data	OT_080414_12.raw		
+Fusion Test Data	Data	OT_080414_13.raw		
+Fusion Test Data	Data	OT_080414_14.raw		
+Fusion Test Data	Data	OT_080414_15.raw		
+Fusion Test Data	Data	OT_080414_10.raw		
+Fusion Test Data	Data	OT_080414_11.raw		
+Fusion Test Data	Data	OT_080414_12.raw		
+Fusion Test Data	Data	OT_080414_13.raw		
+Fusion Test Data	Data	OT_080414_14.raw		
+Fusion Test Data	Data	OT_080414_15.raw		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Fusion Test Data	Data	mzML files		
+Smith Corinne	MS14-052 MB1	OT_041014_02.mzML	20140410	F001916.dat
+Smith Corinne	MS14-052 MB1	OT_041014_03.mzML	20140410	F001917.dat
+Smith Corinne	MS14-052 MB1	OT_041014_04.mzML	20140410	F001918.dat
+Smith Corinne	MS14-052 MB1	OT_011014_06.mzML	20140414	F001920.dat
+Smith Corinne	MS14-052 MB1	OT_011014_07.mzML	20140414	F001921.dat
+Smith Corinne	MS14-052 MB1	OT_011014_08.mzML	20140414	F001922.dat
+Smith Corinne	MS14-052 MB1	OT_011014_06.mzML	20140415	F001923.dat
+Smith Corinne	MS14-052 MB1	OT_011014_07.mzML	20140415	F001924.dat
+Smith Corinne	MS14-052 MB1	OT_011014_08.mzML	20140415	F001925.dat
+Fusion Test Data	mgf files	OT_150414_01.mzML	20140416	F001926.dat
+Fusion Test Data	mgf files	OT_150414_02.mzML	20140416	F001927.dat
+Fusion Test Data	mgf files	OT_150414_03.mzML	20140416	F001928.dat
+Fusion Test Data	mgf files	OT_150414_04.mzML	20140416	F001929.dat
+Fusion Test Data	mgf files	OT_150414_06.mzML	20140416	F001930.dat
+Fusion Test Data	mgf files	OT_150414_05.mgf		
+Fusion Test Data	mgf files	OT_150414_07.mgf		
+Fusion Test Data	mgf files	OT_150414_09.mgf		
+Fusion Test Data	mgf files	OT_150414_05.mgf	20140416	F001939.dat
+Fusion Test Data	mgf files	OT_150414_07.mgf	20140416	F001943.dat
+Fusion Test Data	mgf files	OT_150414_05.mgf	20140416	F001944.dat
+Fusion Test Data	mgf files	OT_150414_07.mgf	20140416	F001947.dat
+Fusion Test Data	mgf files	OT_150414_13.mgf	20140416	F001946.dat
+Fusion Test Data	mgf files	OT_150414_09.mgf	20140416	F001948.dat
+Fusion Test Data	mgf files	OT_150414_09.mgf	20140416	F001949.dat
+Fusion Test Data	mgf files	OT_150414_11.mgf	20140416	F001950.dat
+Fusion Test Data	mgf files	OT_150414_11.mgf	20140416	F001951.dat
+Fusion Test Data	mgf files	OT_150414_13.mgf	20140416	F001952.dat
+Fusion Test Data	mgf files	OT_150414_15.mgf	20140416	F001953.dat
+Fusion Test Data	mgf files	OT_150414_21.mgf	20140416	F001955.dat
+Fusion Test Data	mgf files	OT_150414_15.mgf	20140416	F001954.dat
+Fusion Test Data	mgf files	OT_150414_17.mgf	20140416	F001956.dat
+Fusion Test Data	mgf files	OT_150414_17.mgf	20140416	F001957.dat
+Fusion Test Data	mgf files	OT_150414_21.mgf	20140417	F001958.dat
+Fusion Test Data	mgf files	OT_150414_05.mgf	20140417	F001959.dat
+Fusion Test Data	mgf files	OT_150414_07.mgf	20140417	F001960.dat
+Fusion Test Data	mgf files	OT_150414_09.mgf	20140417	F001961.dat
+Fusion Test Data	mgf files	OT_150414_11.mgf	20140417	F001962.dat
+Fusion Test Data	mgf files	OT_150414_13.mgf	20140417	F001963.dat
+Fusion Test Data	mgf files	OT_150414_15.mgf	20140417	F001964.dat
+Fusion Test Data	mgf files	OT_150414_17.mgf	20140417	F001965.dat
+Fusion Test Data	mgf files	OT_150414_25.mgf	20140417	F001966.dat
+Fusion Test Data	mgf files	OT_150414_28.mgf	20140417	F001967.dat
+Fusion Test Data	mgf files	OT_150414_27.mgf	20140417	F001968.dat
+Fusion Test Data	mgf files	OT_150414_26.mgf	20140417	F001969.dat
+Fusion Test Data	mgf files	OT_150414_24.mgf	20140417	F001970.dat
+Fusion Test Data	mgf files	OT_150414_23.mgf	20140417	F001971.dat
+Fusion Test Data	mgf files	OT_150414_19.mgf	20140417	F001972.dat
+Fusion Test Data	mgf files	OT_150414_22.mgf	20140417	F001973.dat
+Fusion Test Data	mgf files	OT_150414_20.mgf	20140417	F001974.dat
+Fusion Test Data	mgf files	OT_150414_18.mgf	20140417	F001975.dat
+Jones Alex	OT_170414_03_140417153359.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140417/F001976.dat			
+Jones Alex	OT_170414_03_140417153359.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140417/F001977.dat			
+Jones Alex	OT_170414_03_140417153359.mzML	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140417/F001978.dat			
+Jones Alex	OT_170414_04.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140418/F001979.dat			
+Jones Alex	OT_170414_04.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140418/F001980.dat			
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Fusion Test Data	mgf files			
+Fusion Test Data	mgf files			
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Wellington	External Hard Drive	Converted mgf files		
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Files for Mascot	G2_042914_01_CID.pkl	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140430/F002012.dat			
+Files for Mascot	G2_042914_02_CID.pkl	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140430/F002013.dat			
+Files for Mascot	G2_042914_05_CID.pkl	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140430/F002014.dat			
+Fusion Test Data	mzML files			
+Wellington	metaproteomcis workshop			
+Wellington	metaproteomcis workshop			
+Fusion Test Data	Data			
+Fusion Test Data	Data			
+Fusion Test Data	Data			
+Fusion Test Data	Data			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Nevis Ioannis	MS14-049 IN	OT_140507_03.mzML	20140507	F002047.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_04.mzML	20140507	F002048.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_05.mzML	20140507	F002049.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_06.mzML	20140507	F002050.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_07.mzML	20140507	F002051.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_08.mzML	20140507	F002052.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_09.mzML	20140507	F002053.dat
+Fusion Test Data	mzML files			
+Nevis Ioannis	MS14-049 IN	OT_140507_03.mzML	20140508	F002055.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_04.mzML	20140508	F002056.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_05.mzML	20140508	F002057.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_06.mzML	20140508	F002058.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_07.mzML	20140508	F002059.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_08.mzML	20140508	F002060.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_09.mzML	20140508	F002061.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_10.mzML	20140508	F002062.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_11.mzML	20140508	F002063.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_12.mzML	20140508	F002064.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_13.mzML	20140508	F002065.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_14.mzML	20140508	F002066.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_15.mzML	20140508	F002067.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_16.mzML	20140508	F002068.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_17.mzML	20140508	F002069.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_18.mzML	20140508	F002070.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_19.mzML	20140508	F002071.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_20.mzML	20140508	F002072.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_21.mzML	20140508	F002073.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_22.mzML	20140508	F002074.dat
+McCarthy	MS14-048 JD8	OT_140508_12.mzML	20140509	F002075.dat
+Smith Corinne	MS14-044 KM3	OT_140509_001.mzML	20140509	F002079.dat
+McCarthy	MS14-048 JD8	OT_140508_12.mzML	20140509	F002078.dat
+Smith Corinne	MS14-044 KM3	OT_140509_002.mzML	20140509	F002080.dat
+Smith Corinne	MS14-044 KM3	OT_140509_020.mzML		
+Smith Corinne	MS14-044 KM3	OT_140509_021.mzML		
+Smith Corinne	MS14-044 KM3	OT_140509_020.mzML		
+Smith Corinne	MS14-044 KM3	OT_140509_021.mzML		
+Smith Corinne	MS14-044 KM3	OT_140509_020.mzML	20140512	F002081.dat
+Smith Corinne	MS14-044 KM3	OT_140509_021.mzML	20140512	F002082.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_03.mzML	20140512	F002087.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_03.mzML	20140512	F002089.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_04.mzML	20140512	F002090.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_04.mzML	20140512	F002088.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_05.mzML	20140512	F002091.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_06.mzML	20140512	F002093.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_07.mzML	20140512	F002094.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_08.mzML	20140512	F002092.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_08.mzML	20140512	F002095.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_09.mzML	20140512	F002097.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_09.mzML	20140512	F002096.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_10.mzML	20140512	F002098.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_11.mzML	20140512	F002100.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_12.mzML	20140512	F002101.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_13.mzML	20140512	F002102.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_14.mzML	20140512	F002103.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_15.mzML	20140512	F002104.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_16.mzML	20140512	F002105.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_17.mzML	20140512	F002106.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_19.mzML	20140512	F002099.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_18.mzML	20140512	F002107.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_19.mzML	20140512	F002109.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_20.mzML	20140512	F002108.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_03.mzML	20140512	F002112.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_04.mzML	20140512	F002113.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_05.mzML	20140512	F002114.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_06.mzML	20140512	F002115.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_07.mzML	20140512	F002116.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_08.mzML	20140512	F002117.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_09.mzML	20140512	F002118.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_10.mzML	20140512	F002119.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_11.mzML	20140512	F002120.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_12.mzML	20140512	F002121.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_13.mzML	20140512	F002122.dat
+McCarthy	MS14-048 JD8	OT_140508_12.mzML		
+Nevis Ioannis	MS14-049 IN	OT_140507_14.mzML	20140513	F002123.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_15.mzML	20140513	F002124.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_16.mzML	20140513	F002125.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_17.mzML	20140513	F002126.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_18.mzML	20140513	F002127.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_19.mzML	20140513	F002128.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_20.mzML	20140513	F002129.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_21.mzML	20140513	F002130.dat
+Nevis Ioannis	MS14-049 IN	OT_140507_22.mzML	20140513	F002131.dat
+Buchanan-Wollaston	MS14-064 EB5	OT_140508_15.mzML	20140513	F002136.dat
+Buchanan-Wollaston	MS14-064 EB5	OT_140508_16.mzML	20140513	F002137.dat
+McCarthy	MS14-048 JD8	OT_140508_12.mzML	20140513	F002138.dat
+McCarthy	MS14-048 JD8	OT_140508_12.mzML		
+Fusion Test Data	50 cm column	OT_140512_04.mzML	20140513	F002139.dat
+Fusion Test Data	50 cm column	OT_140512_05.mzML	20140513	F002140.dat
+Fusion Test Data	50 cm column	OT_140512_01.mzML	20140513	F002141.dat
+Fusion Test Data	50 cm column	OT_140512_02.mzML	20140513	F002142.dat
+Fusion Test Data	50 cm column	OT_140512_03.mzML	20140513	F002143.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_04.mzML	20140514	F002144.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_05.mzML	20140514	F002145.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_06.mzML	20140514	F002146.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_08.mzML	20140514	F002147.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_09.mzML	20140514	F002148.dat
+Schafer Patrick	MS14-055 RE7	OT_140508_10.mzML	20140514	F002149.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_023.mzML	20140514	F002150.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_024.mzML	20140514	F002151.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_025.mzML	20140514	F002152.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_027.mzML	20140514	F002153.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_028.mzML	20140514	F002155.dat
+Schafer Patrick	MS14-055 RE7	OT_140509_029.mzML	20140514	F002156.dat
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Fusion Test Data	mzML files			
+Buchanan-Wollaston	MS14-064 EB5	OT_140508_15.mzML	20140516	F002162.dat
+Fusion Test Data	mzML files			
+Buchanan-Wollaston	MS14-064 EB5	OT_140508_16.mzML	20140516	F002164.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_012.mzML	20140516	F002165.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_013.mzML	20140516	F002166.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_014.mzML	20140516	F002167.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_016.mzML	20140516	F002168.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_017.mzML	20140516	F002169.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_018.mzML	20140516	F002170.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_031.mzML	20140516	F002171.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_032.mzML	20140517	F002172.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_033.mzML	20140517	F002173.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_035.mzML	20140517	F002174.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_036.mzML	20140517	F002175.dat
+Di Cola Alessandra	MS15-046 ADC	OT_140509_037.mzML	20140517	F002176.dat
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Jones Alex	MS14-062 WH			
+Di Cola Alessandra	MS14-045 ADC	OT_140517_16.mzML	20140519	F002185.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_17.mzML	20140519	F002186.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_18.mzML	20140519	F002187.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_19.mzML	20140519	F002188.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_20.mzML	20140519	F002189.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_21.mzML	20140519	F002190.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_22.mzML	20140519	F002191.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_23.mzML	20140519	F002192.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140517_24.mzML	20140519	F002193.dat
+Buchanan-Wollaston	MS14-065 EB5	OT_140517_11.mzML	20140519	F002194.dat
+Buchanan-Wollaston	MS14-065 EB5	OT_140517_12.mzML	20140519	F002195.dat
+Buchanan-Wollaston	MS14-065 EB5	OT_140517_13.mzML	20140519	F002196.dat
+Buchanan-Wollaston	MS14-065 EB5	OT_140517_14.mzML	20140519	F002197.dat
+Jones Alex	MS14-062 WH			
+Di Cola Alessandra	MS14-045 ADC	OT_140519_11.mzML	20140520	F002199.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_03.mzML	20140520	F002200.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_04.mzML	20140520	F002201.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_05.mzML	20140520	F002202.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_07.mzML	20140520	F002203.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_12.mzML	20140520	F002205.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_13.mzML	20140520	F002208.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_08.mzML	20140520	F002204.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_14.mzML	20140520	F002209.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_05.mzML	20140520	F002206.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_09.mzML	20140520	F002210.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_15.mzML	20140520	F002212.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_16.mzML	20140520	F002214.dat
+Schafer Patrick	MS14-055 RE7	OT_140519_09.mzML	20140520	F002213.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_05.mzML	20140520	F002207.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_06.mzML	20140520	F002211.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_07.mzML	20140520	F002216.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_08.mzML	20140520	F002217.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_06.mzML	20140520	F002215.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_09.mzML	20140520	F002218.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_07.mzML	20140520	F002219.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_08.mzML	20140520	F002220.dat
+Grammatopoulos Dimitris	MS14-063	OT_140517_09.mzML	20140521	F002221.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_17.mzML	20140521	F002222.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_18.mzML	20140521	F002223.dat
+Di Cola Alessandra	MS14-045 ADC	OT_140519_19.mzML	20140521	F002224.dat
+Dalgaard Jacob	MS14-069 RA3	OT_140521_04.mzML	20140521	F002226.dat
+Dalgaard Jacob	MS14-069 RA3	OT_140521_06.mzML	20140521	F002227.dat
+Christie-Oleza Joseph	MS14-075 JOC1	OT_140522_04.mzML	20140523	F002229.dat
+Christie-Oleza Joseph	MS14-076 JOC1	OT_140522_03.mzML	20140523	F002230.dat
+Christie-Oleza Joseph	MS14-075 JOC1	OT_140522_05.mzML	20140523	F002231.dat
+Christie-Oleza Joseph	MS14-076 JOC1	OT_140522_03.mzML		
+Christie-Oleza Joseph	MS14-075 JOC1	OT_140522_04.mzML		
+Grammatopoulos Dimitris	MS14-063	OT_140523_03.mzML	20140524	F002236.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_04.mzML	20140524	F002237.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_05.mzML	20140524	F002238.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_06.mzML	20140524	F002239.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_03.mzML		
+Grammatopoulos Dimitris	MS14-063	OT_140523_03.mzML	20140526	F002242.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_04.mzML	20140526	F002243.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_05.mzML	20140526	F002244.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_06.mzML	20140526	F002245.dat
+Grammatopoulos Dimitris	MS14-063	OT_140523_07.mzML	20140526	F002246.dat
+Christie-Oleza Joseph	MS14-075 JOC1	OT_140522_04.mzML	20140527	F002247.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_21.mzML	20140527	F002249.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_22.mzML	20140527	F002250.dat
+Christie-Oleza Joseph	MS14-075 JOC1	OT_140522_05.mzML	20140527	F002248.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_23.mzML	20140527	F002251.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_24.mzML	20140527	F002253.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_03.mzML	20140527	F002254.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_25.mzML	20140527	F002255.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_04.mzML	20140527	F002256.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_27.mzML	20140527	F002257.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_05.mzML	20140527	F002258.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_28.mzML	20140527	F002259.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_06.mzML	20140527	F002260.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_29.mzML	20140527	F002261.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_07.mzML	20140527	F002262.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_30.mzML	20140527	F002263.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_09.mzML	20140527	F002264.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_31.mzML	20140527	F002265.dat
+Christie-Oleza Joseph	MS14-076 JOC1	OT_140522_03.mzML	20140527	F002252.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_10.mzML	20140527	F002266.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_11.mzML	20140527	F002267.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_12.mzML	20140527	F002268.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_13.mzML	20140527	F002269.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_15.mzML	20140527	F002270.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_16.mzML	20140527	F002271.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_17.mzML	20140527	F002272.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_18.mzML	20140527	F002273.dat
+Balasubramanian Mohan	MS14-070 SP2	OT_140524_19.mzML	20140527	F002274.dat
+Wellington	metaproteomcis workshop	OT_140507_23.mzML	20140528	F002275.dat
+Wellington	metaproteomcis workshop	OT_140507_24.mzML	20140528	F002276.dat
+Wellington	metaproteomcis workshop	OT_140516_15.mzML	20140528	F002277.dat
+Wellington	metaproteomcis workshop	OT_140516_16.mzML	20140528	F002278.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_04.mzML	20140529	F002280.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_05.mzML	20140529	F002281.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_06.mzML	20140529	F002282.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_07.mzML	20140529	F002283.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_08.mzML	20140529	F002284.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_09.mzML	20140529	F002285.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_10.mzML	20140529	F002286.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_11.mzML	20140529	F002287.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_12.mzML	20140529	F002288.dat
+Klein-Seetharaman Judith	MS14-077 AB	OT_140528_13.mzML	20140529	F002289.dat
+Christie-Oleza Joseph	MS14-076 JCO1	OT_140522_03.mzML	20140529	F002291.dat
+Christie-Oleza Joseph	MS14-075 JCO1	OT_140522_04.mzML	20140529	F002292.dat
+Christie-Oleza Joseph	MS14-075 JCO1	OT_140522_05.mzML	20140529	F002293.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_03.mzML	20140530	F002295.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_04.mzML	20140530	F002296.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_08.mzML	20140530	F002297.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_09.mzML	20140530	F002298.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_19.mzML	20140530	F002299.dat
+Sanchez-Coll Nuria	MS14-047 N-C	OT_140508_20.mzML	20140530	F002300.dat
+Denby Katherine	MS14-085 EB5	OT_140530_07.mzML	20140531	F002302.dat
+Denby Katherine	MS14-085 EB5	OT_140530_08.mzML	20140531	F002303.dat
+Denby Katherine	MS14-085 EB5	OT_140530_09.mzML	20140531	F002304.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_26.mzML	20140531	F002305.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_27.mzML	20140531	F002306.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_21.mzML	20140531	F002312.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_18.mzML	20140531	F002311.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_22.mzML	20140531	F002313.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_24.mzML	20140531	F002314.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_19.mzML	20140531	F002315.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_23.mzML	20140531	F002316.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_28.mzML	20140531	F002317.dat
+Christie-Oleza Joseph	MS14-082 JCO1	OT_140530_20.mzML	20140531	F002318.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_29.mzML	20140601	F002319.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_30.mzML	20140601	F002320.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_32.mzML	20140601	F002321.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_33.mzML	20140601	F002322.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_34.mzML	20140601	F002323.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_35.mzML	20140601	F002324.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_36.mzML	20140601	F002325.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_38.mzML	20140601	F002326.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_39.mzML	20140601	F002327.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_40.mzML	20140601	F002328.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_41.mzML	20140601	F002329.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_42.mzML	20140601	F002330.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_44.mzML	20140601	F002331.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_45.mzML	20140601	F002332.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_46.mzML	20140601	F002333.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_47.mzML	20140601	F002334.dat
+Jones Alex	MS14-086 AP (UG)	OT_140530_48.mzML	20140601	F002335.dat
+Elphick QMUL	MS13-027 ME QMUL	OT_140516_19.mzML	20140603	F002336.dat
+Elphick QMUL	MS13-027 ME QMUL	OT_140516_18.mzML	20140603	F002337.dat
+Elphick QMUL	MS13-027 ME QMUL	OT_140517_03.mzML	20140603	F002338.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_11.mzML	20140604	F002339.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_12.mzML	20140604	F002346.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_13.mzML	20140604	F002347.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_11.mzML	20140604	F002349.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_14.mzML	20140604	F002348.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_12.mzML	20140604	F002350.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_15.mzML	20140604	F002351.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_13.mzML	20140604	F002352.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_16.mzML	20140604	F002354.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_10.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_14.mzML	20140604	F002355.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_11.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_12.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_13.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_15.mzML	20140604	F002358.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_16.mzML	20140604	F002361.dat
+Wellington	metaproteomcis workshop	OT_043014_06.mzML	20140604	F002353.dat
+Wellington	metaproteomcis workshop	OT_043014_07.mzML	20140604	F002362.dat
+Wellington	metaproteomcis workshop	OT_140507_23.mzML	20140605	F002363.dat
+Wellington	metaproteomcis workshop	OT_140507_24.mzML	20140605	F002364.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_03.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_04.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_05.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_06.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_07.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_08.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_09.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_10.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_11.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_12.mzML		
+Jones Alex	MS14-086 AP (UG)	OT_140603_13.mzML		
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_01.mzML	20140605	F002377.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_04.mzML	20140605	F002378.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_02.mzML	20140605	F002379.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_03.mzML	20140605	F002381.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_05.mzML	20140605	F002380.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_13.mzML	20140605	F002383.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_07.mzML	20140605	F002382.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_09.mzML	20140605	F002385.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_15.mzML	20140605	F002384.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140604_11.mzML	20140605	F002386.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_03.mgf	20140606	F002388.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_04.mgf	20140606	F002389.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_05.mgf	20140606	F002390.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_06.mgf	20140606	F002391.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_07.mgf	20140606	F002392.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_08.mgf	20140606	F002393.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_09.mgf	20140606	F002394.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_10.mgf	20140606	F002395.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_11.mgf	20140606	F002396.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_12.mgf	20140606	F002397.dat
+Jones Alex	MS14-086 AP (UG)	OT_140603_13.mgf	20140606	F002398.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_03.mgf	20140606	F002399.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_04.mgf	20140606	F002400.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_05.mgf	20140606	F002401.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_06.mgf	20140606	F002402.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_07.mgf	20140606	F002403.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_09.mgf	20140606	F002404.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_11.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_11.mzML	20140606	F002405.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_12.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_13.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_12.mzML	20140606	F002408.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_14.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_13.mzML	20140606	F002411.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_15.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_16.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_14.mzML	20140606	F002413.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_15.mzML	20140606	F002415.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_16.mzML	20140606	F002416.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_11.mgf	20140606	F002417.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_10.mgf	20140606	F002418.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_12.mgf	20140606	F002419.dat
+Jones Alex	MS14-086 AP (UG)	OT_140605_13.mgf	20140606	F002420.dat
+Wellington	metaproteomcis workshop	OT_140516_15.mzML	20140605	F002365.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_11.mzML	20140606	F002422.dat
+Wellington	metaproteomcis workshop	OT_140516_16.mzML		
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_12.mzML	20140606	F002423.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_13.mzML	20140607	F002424.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_14.mzML	20140607	F002425.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_15.mzML	20140607	F002426.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140530_16.mzML	20140607	F002427.dat
+Jones Alex	MS14-094 HR (UG)	OT_140606_04.mzML	20140607	F002429.dat
+Jones Alex	MS14-094 HR (UG)	OT_140606_05.mzML	20140607	F002430.dat
+Jones Alex	MS14-094 HR (UG)	OT_140606_06.mzML	20140607	F002431.dat
+Jones Alex	MS14-094 HR (UG)	OT_140606_07.mzML	20140607	F002432.dat
+Jones Alex	MS14-094 HR (UG)	OT_140606_08.mzML	20140607	F002433.dat
+Wellington	metaproteomcis workshop	OT_140516_16.mzML	20140607	F002428.dat
+Frigerio Lorenzo	MS14-091 LF1	OT_140606_10.mzML	20140607	F002434.dat
+Frigerio Lorenzo	MS14-091 LF1	OT_140606_11.mzML	20140607	F002435.dat
+Frigerio Lorenzo	MS14-091 LF1	OT_140606_12.mzML	20140607	F002437.dat
+Malinovsky	MS14-089 FM	OT_140606_16.mzML	20140607	F002436.dat
+Malinovsky	MS14-089 FM	OT_140606_17.mzML	20140607	F002441.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_01.mzML		
+Malinovsky	MS14-089 FM	OT_140606_18.mzML	20140607	F002442.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_01.mzML	20140607	F002440.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_02.mzML		
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_01.mzML	20140607	F002439.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_02.mzML	20140607	F002444.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_02.mzML	20140607	F002445.dat
+Malinovsky	MS14-089 FM	OT_140606_14.mzML	20140607	F002448.dat
+Malinovsky	MS14-089 FM	OT_140606_15.mzML	20140607	F002449.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_01.mzML	20140607	F002447.dat
+Malinovsky	MS14-089 FM	OT_140606_16.mzML	20140607	F002450.dat
+Malinovsky	MS14-089 FM	OT_140606_17.mzML	20140607	F002452.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_02.mzML	20140607	F002451.dat
+Malinovsky	MS14-089 FM	OT_140606_18.mzML	20140607	F002453.dat
+Norris Paul	Fusion Data			
+Norris Paul	Fusion Data			
+Norris Paul	Fusion Data			
+Norris Paul	Fusion Data			
+Malinovsky	MS14-089 FM	OT_140606_20.mzML	20140608	F002458.dat
+Malinovsky	MS14-089 FM	OT_140606_21.mzML	20140608	F002459.dat
+Malinovsky	MS14-089 FM	OT_140606_22.mzML	20140608	F002460.dat
+Malinovsky	MS14-089 FM	OT_140606_23.mzML	20140608	F002461.dat
+Malinovsky	MS14-089 FM	OT_140606_24.mzML	20140608	F002462.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140606_27.mzML	20140608	F002465.dat
+Balasubramanian Mohan	MS14-080 SP2	OT_140606_33.mzML	20140608	F002466.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140606_35.mzML	20140608	F002467.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140606_27.mzML	20140609	F002468.dat
+Norris Paul	mzML			
+Balasubramanian Mohan	MS14-078 SP2	OT_140606_31.mzML	20140609	F002469.dat
+Norris Paul	mzML			
+Norris Paul	mzML			
+Norris Paul	mzML			
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_01.mzML	20140610	F002476.dat
+Christie-Oleza Joseph	MS14-083 JCO1	OT_140606_02.mzML	20140610	F002477.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_06.mzML		
+Nezis Ioannis	MS14-098 NM7	OT_140613_06.mzML	20140615	F002507.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_07.mzML	20140615	F002508.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_08.mzML	20140615	F002509.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_09.mzML	20140615	F002510.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_10.mzML	20140615	F002511.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_12.mzML	20140615	F002512.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_13.mzML	20140615	F002513.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_14.mzML	20140615	F002514.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_15.mzML	20140615	F002515.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_16.mzML	20140615	F002516.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_18.mzML	20140615	F002518.dat
+Nezis Ioannis	MS14-098 NM7	OT_140615_03.mzML	20140615	F002517.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_19.mzML	20140615	F002519.dat
+Nezis Ioannis	MS14-098 NM7	OT_140615_04.mzML	20140615	F002520.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_20.mzML	20140615	F002521.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_21.mzML	20140615	F002522.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_22.mzML	20140615	F002523.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_24.mzML	20140615	F002524.dat
+Nezis Ioannis	MS14-098 NM7	OT_140613_25.mzML	20140615	F002525.dat
+Nezis Ioannis	MS14-098 NM7	OT_140615_05.mzML	20140615	F002526.dat
+Denby Katherine	MS14-092 EB5	OT_140616_03.mzML	20140616	F002527.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140616_05.mzML	20140617	F002528.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140616_09.mzML	20140617	F002529.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140616_09.mzML	20140617	F002545.dat
+Denby Katherine	MS14-092 EB5	OT_140616_13.mzML	20140619	F002554.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_02.mzML	20140619	F002556.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_02.mzML	20140619	F002555.dat
+Balasubramanian Mohan	Saravanan_old_data			
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_02.mzML	20140620	F002558.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_03.mzML	20140620	F002559.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_04.mzML	20140620	F002560.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_05.mzML	20140620	F002561.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_06.mzML	20140620	F002562.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run1_081111_07.mzML	20140620	F002563.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_02.mzML	20140620	F002564.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_03.mzML	20140620	F002565.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_04.mzML	20140620	F002566.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_05.mzML	20140620	F002567.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_06.mzML	20140620	F002568.dat
+Wellington	ORNL data 140617	WH_Alpha_Exo_Guan_SCX_BESC_Orbi_Run2_081911_07.mzML	20140620	F002569.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_02.mzML	20140620	F002570.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_03.mzML	20140620	F002571.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_04.mzML	20140620	F002572.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_05.mzML	20140620	F002573.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_06.mzML	20140620	F002574.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run1_081411_07.mzML	20140620	F002575.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_02.mzML	20140620	F002576.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_03.mzML	20140620	F002577.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_04.mzML	20140620	F002578.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_05.mzML	20140620	F002579.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_06.mzML	20140620	F002580.dat
+Wellington	ORNL data 140617	WH_Alpha_WholeCell_Guan_SCX_BESC_Orbi_Run2_081611_07.mzML	20140620	F002581.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_02.mzML	20140620	F002582.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_03.mzML	20140621	F002583.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_04.mzML	20140621	F002584.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_05.mzML	20140621	F002585.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_06.mzML	20140621	F002586.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run1_081211_07.mzML	20140621	F002587.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_02.mzML	20140621	F002588.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_03.mzML	20140621	F002589.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_04.mzML	20140621	F002590.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_05.mzML	20140621	F002591.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_06.mzML	20140621	F002592.dat
+Wellington	ORNL data 140617	WH_Beta_Exo_Guan_SCX_BESC_Orbi_Run2_081711_07.mzML	20140621	F002593.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_02.mzML	20140621	F002594.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_03.mzML	20140621	F002595.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_04.mzML	20140621	F002596.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_05.mzML	20140621	F002597.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_06.mzML	20140621	F002598.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run1_081311_07.mzML	20140621	F002599.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_02.mzML	20140621	F002600.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_03.mzML	20140621	F002601.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_04.mzML	20140621	F002602.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_05.mzML	20140621	F002603.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_06.mzML	20140621	F002604.dat
+Wellington	ORNL data 140617	WH_Beta_WholeCell_Guan_SCX_BESC_Orbi_Run2_081511_07.mzML	20140621	F002605.dat
+Denby Katherine	MS14-092 EB5	OT_140620_08.mzML	20140623	F002607.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_17.mzML	20140623	F002608.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_19.mzML	20140623	F002610.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_22.mzML	20140623	F002611.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140620_37.mzML	20140623	F002609.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_20.mzML	20140623	F002612.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_21.mzML	20140623	F002613.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_23.mzML	20140623	F002614.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_25.mzML	20140623	F002615.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_26.mzML	20140623	F002616.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_27.mzML	20140623	F002617.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_28.mzML	20140623	F002618.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_29.mzML	20140624	F002619.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_31.mzML	20140624	F002620.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_32.mzML	20140624	F002621.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_33.mzML	20140624	F002622.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_34.mzML	20140624	F002623.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_35.mzML	20140624	F002624.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_16.mzML	20140624	F002625.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_13.mzML	20140624	F002626.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_14.mzML	20140624	F002627.dat
+Nezis Ioannis	MS14-099 NM7	OT_140620_15.mzML	20140624	F002628.dat
+Wellington	metaproteomcis workshop	OT_140516_16.mzML	20140624	F002629.dat
+Chen Yin	MS14-097 IL3	OT_140620_10.mzML	20140625	F002631.dat
+Chen Yin	MS14-097 IL3	OT_140620_11.mzML	20140625	F002632.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140616_07.mzML	20140626	F002633.dat
+Balasubramanian Mohan	MS14-078 SP2	OT_140616_11.mzML	20140626	F002634.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_03.mgf	20140627	F002635.dat
+Malinovsky	MS14-101 FM	OT_140626_09.mgf	20140627	F002637.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_03_140627001618.mgf	20140627	F002636.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_05.mgf	20140627	F002639.dat
+Malinovsky	MS14-101 FM	OT_140626_11.mgf	20140627	F002638.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_07.mgf	20140627	F002640.dat
+Malinovsky	MS14-101 FM	OT_140626_13.mgf	20140627	F002641.dat
+Malinovsky	MS14-101 FM	OT_140626_15.mgf	20140627	F002643.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_21.mgf	20140627	F002642.dat
+Malinovsky	MS14-101 FM	OT_140626_17.mgf	20140627	F002644.dat
+Malinovsky	MS14-101 FM	OT_140626_19.mgf	20140627	F002646.dat
+Frigerio Lorenzo	MS14-102 LF1	OT_140626_23.mgf	20140627	F002645.dat
+Malinovsky	MS14-101 FM	OT_140626_25.mgf	20140627	F002647.dat
+Malinovsky	MS14-101 FM	OT_140626_27.mgf	20140627	F002648.dat
+Malinovsky	MS14-101 FM	OT_140626_29.mgf	20140630	F002650.dat
+Malinovsky	MS14-101 FM	OT_140626_29.mgf	20140630	F002651.dat
+Malinovsky	MS14-101 FM	OT_140626_35.mgf	20140630	F002652.dat
+Malinovsky	MS14-101 FM	OT_140626_31.mgf	20140630	F002653.dat
+Malinovsky	MS14-101 FM	OT_140626_33.mgf	20140630	F002654.dat
+Jones Alex	MS14-115 AJ6	mgf		
+Jones Alex	MS14-115 AJ6	mgf		
+Jones Alex	MS14-115 AJ6	mgf		
+Jones Alex	MS14-115 AJ6	mgf		
+Jones Alex	MS14-115 AJ6	mgf		
+Jones Alex	MS14-115 AJ6	mgf		
+Balasubramanian Mohan	MS14-124 SP2	OT_140710_03.mgf	20140710	F002665.dat
+Balasubramanian Mohan	MS14-124 SP2	OT_140710_04.mgf	20140710	F002666.dat
+Balasubramanian Mohan	MS14-125 SP2	OT_140710_06.mgf	20140710	F002667.dat
+Balasubramanian Mohan	MS14-124 SP2	OT_140710_03.mgf	20140710	F002669.dat
+Balasubramanian Mohan	MS14-124 SP2	OT_140710_04.mgf	20140710	F002670.dat
+Balasubramanian Mohan	MS14-125 SP2	OT_140710_06.mgf	20140710	F002672.dat
+Balasubramanian Mohan	MS14-125 SP2	OT_140710_07.mgf	20140710	F002673.dat
+McCarthy	MS14-123 JD8	OT_140710_16.mgf	20140711	F002674.dat
+McCarthy	MS14-123 JD8	OT_140710_17.mgf	20140711	F002675.dat
+McCarthy	MS14-123 JD8	OT_140710_18.mgf	20140711	F002676.dat
+McCarthy	MS14-123 JD8	OT_140710_19.mgf	20140711	F002677.dat
+McCarthy	MS14-123 JD8	OT_140710_20.mgf	20140711	F002678.dat
+Malinovsky	MS14-101 FM	OT_140710_09.mgf	20140711	F002679.dat
+McCarthy	MS14-123 JD8	OT_140710_21.mgf	20140711	F002680.dat
+Malinovsky	MS14-101 FM	OT_140710_10.mgf	20140711	F002681.dat
+McCarthy	MS14-123 JD8	OT_140710_22.mgf	20140711	F002682.dat
+Malinovsky	MS14-101 FM	OT_140710_11.mgf	20140711	F002683.dat
+McCarthy	MS14-123 JD8	OT_140710_23.mgf	20140711	F002684.dat
+Malinovsky	MS14-101 FM	OT_140710_12.mgf	20140711	F002685.dat
+Malinovsky	MS14-101 FM	OT_140710_13.mgf	20140711	F002686.dat
+Malinovsky	MS14-101 FM	OT_140710_14.mgf	20140711	F002687.dat
+McCarthy	MS14-123 JD8	OT_140711_03.mgf	20140711	F002688.dat
+McCarthy	MS14-123 JD8	OT_140711_04.mgf	20140711	F002689.dat
+McCarthy	MS14-123 JD8	OT_140711_05.mgf	20140714	F002691.dat
+McCarthy	MS14-123 JD8	OT_140711_06.mgf	20140714	F002692.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_12.mgf	20140714	F002697.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_20.mgf	20140714	F002698.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_28.mgf	20140714	F002699.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_13.mgf	20140714	F002700.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_21.mgf	20140714	F002701.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_29.mgf	20140714	F002702.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_14.mgf	20140714	F002704.dat
+McCarthy	MS14-123 JD8	OT_140711_08.mgf	20140714	F002696.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_22.mgf	20140714	F002705.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_16.mgf	20140714	F002707.dat
+McCarthy	MS14-123 JD8	OT_140711_07.mgf	20140714	F002703.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_24.mgf	20140714	F002709.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_30.mgf	20140714	F002706.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_17.mgf	20140714	F002710.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_18.mgf	20140714	F002713.dat
+McCarthy	MS14-123 JD8	OT_140711_09.mgf	20140714	F002708.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_25.mgf	20140714	F002711.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_32.mgf	20140714	F002712.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_26.mgf	20140714	F002715.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_33.mgf	20140714	F002716.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_34.mgf	20140714	F002717.dat
+McCarthy	MS14-123 JD8	OT_140711_10.mgf	20140714	F002714.dat
+McCarthy	MS14-129 HF1	OT_140711_36.mgf	20140714	F002718.dat
+McCarthy	MS14-129 HF1	OT_140711_37.mgf	20140714	F002719.dat
+McCarthy	MS14-129 HF1	OT_140711_38.mgf	20140714	F002720.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_16.mgf	20140714	F002722.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_17.mgf	20140714	F002723.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_18.mgf	20140714	F002724.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_24.mgf	20140714	F002725.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_25.mgf	20140714	F002726.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_26.mgf	20140714	F002727.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_32.mgf	20140714	F002728.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_33.mgf	20140714	F002729.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_34.mgf	20140714	F002730.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_16.mgf	20140714	F002732.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_17.mgf	20140714	F002733.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_18.mgf	20140714	F002734.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_24.mgf	20140714	F002735.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_25.mgf	20140714	F002736.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_26.mgf	20140714	F002737.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_32.mgf	20140714	F002738.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_33.mgf	20140714	F002739.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_34.mgf	20140714	F002740.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_34.mgf	20140715	F002741.dat
+Malinovsky	MS14-101 FM	OT_140710_09.mgf	20140715	F002743.dat
+Malinovsky	MS14-101 FM	OT_140710_09.mgf	20140715	F002744.dat
+Malinovsky	MS14-101 FM	OT_140710_10.mgf	20140715	F002745.dat
+Malinovsky	MS14-101 FM	OT_140710_10.mgf	20140715	F002746.dat
+Malinovsky	MS14-101 FM	OT_140710_11.mgf	20140715	F002747.dat
+Malinovsky	MS14-101 FM	OT_140710_11.mgf	20140715	F002748.dat
+Malinovsky	MS14-101 FM	OT_140710_12.mgf	20140715	F002750.dat
+Malinovsky	MS14-101 FM	OT_140710_12.mgf	20140715	F002749.dat
+Malinovsky	MS14-101 FM	OT_140710_13.mgf	20140715	F002751.dat
+Malinovsky	MS14-101 FM	OT_140710_13.mgf	20140715	F002752.dat
+Malinovsky	MS14-101 FM	OT_140710_14.mgf	20140715	F002753.dat
+Malinovsky	MS14-101 FM	OT_140710_14.mgf	20140715	F002754.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_03.mgf	20140718	F002756.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_04.mgf	20140718	F002757.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_05.mgf	20140718	F002758.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_07.mgf	20140718	F002759.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_08.mgf	20140718	F002760.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_09.mgf	20140718	F002761.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_11.mgf	20140718	F002763.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_07.mgf	20140718	F002764.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_08.mgf	20140718	F002765.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_09.mgf	20140718	F002766.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_12.mgf	20140718	F002767.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_13.mgf	20140718	F002768.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_15.mgf	20140721	F002770.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_19.mgf	20140721	F002772.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_16.mgf	20140721	F002773.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_20.mgf	20140721	F002774.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_17.mgf	20140721	F002775.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_21.mgf	20140721	F002776.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_23.mgf	20140721	F002777.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_24.mgf	20140721	F002778.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_25.mgf	20140721	F002779.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_12.mgf	20140721	F002780.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_19.mgf	20140721	F002783.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_28.mgf	20140721	F002782.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_13.mgf	20140721	F002786.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_20.mgf	20140721	F002788.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_14.mgf	20140721	F002791.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_29.mgf	20140721	F002789.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_16.mgf	20140721	F002794.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_21.mgf	20140721	F002793.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_30.mgf	20140721	F002795.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_17.mgf	20140721	F002796.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_32.mgf	20140721	F002797.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_18.mgf	20140721	F002798.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_33.mgf	20140721	F002799.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_34.mgf	20140721	F002800.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_11.mgf	20140722	F002801.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_12.mgf	20140722	F002802.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_03.mgf	20140722	F002803.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_13.mgf	20140722	F002804.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_04.mgf	20140722	F002806.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_05.mgf	20140722	F002807.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_07.mgf	20140722	F002808.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_20.mgf	20140722	F002809.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_08.mgf	20140722	F002810.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_21.mgf	20140722	F002811.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_27.mgf	20140722	F002812.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_09.mgf	20140722	F002813.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_22.mgf	20140722	F002814.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_28.mgf	20140722	F002815.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_24.mgf	20140722	F002816.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_29.mgf	20140722	F002817.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_25.mgf	20140722	F002818.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_31.mgf	20140722	F002819.dat
+Christie-Oleza Joseph	MS14-126 JCO1	OT_140711_26.mgf	20140722	F002820.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_32.mgf	20140722	F002821.dat
+Christie-Oleza Joseph	MS14-130 JCO1	OT_140717_33.mgf	20140722	F002822.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_03.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002850.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_04.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002851.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_05.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002852.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_07.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002853.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_08.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002854.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_09.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002855.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_11.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002856.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_19.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002857.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_27.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002859.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_12.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002858.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_20.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002860.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_28.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002861.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_13.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002862.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_31.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002864.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_23.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002863.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_32.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002866.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_15.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002865.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_24.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002867.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_33.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002868.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_16.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002869.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_25.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002870.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_17.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140723/F002871.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_03.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002876.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_15.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002877.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_04.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002878.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_16.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002879.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_05.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002880.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_17.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002881.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_07.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002882.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_11.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002883.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_08.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002884.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_12.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002885.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_09.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002886.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_13.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002887.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_19.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_20.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_21.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_23.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_24.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_25.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_27.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002891.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_19.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002897.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_20.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002898.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_21.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002899.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_28.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002896.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_23.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002900.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_24.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002902.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_29.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002901.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_25.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002903.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_31.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002904.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_32.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002905.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_33.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140725/F002906.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_03.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002907.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_04.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002908.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_05.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002909.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_07.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002910.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_08.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002911.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_09.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140726/F002912.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_11.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140727/F002913.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_12.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140727/F002914.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_13.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140727/F002915.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_15.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140727/F002916.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_16.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_17.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_16.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_17.mgf	
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140718_23.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140728/F002934.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_16.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140729/F002937.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_17.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140729/F002938.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_45.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140729/F002939.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_46.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140729/F002940.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140723_47.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140729/F002941.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140719_16.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140730/F002943.dat
+This script expected a path including Proteomics Protjects. Instead it found 	C:\Xcalibur\data\OT_140729_06.mgf	http://lyo.csv.warwick.ac.uk/mascot/cgi/master_results_2.pl?file=../data/20140730/F002944.dat
+Scrivens James	MS15-069 OC	OT_150220_05.mgf	20150223	F005415.dat
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_08.mgf	20150223	F005417.dat
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_09.mgf	20150223	F005418.dat
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_10.mgf	20150223	F005419.dat
+Millar Jonathan	MS15-057 LM4	OT_150220_17.mgf	20150223	F005420.dat
+Millar Jonathan	MS15-057 LM4	OT_150220_19.mgf	20150223	F005422.dat
+Millar Jonathan	MS15-057 LM4	OT_150220_21.mgf	20150223	F005424.dat
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_12.mgf	20150223	F005421.dat
+Di Cola Alessandra	MS15-004 ADC	Final Analysis for progenesis		
+Di Cola Alessandra	MS15-004 ADC	Final Analysis for progenesis		
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_13.mgf	20150223	F005425.dat
+Di Cola Alessandra	MS15-004 ADC	Final Analysis for progenesis		
+Di Cola Alessandra	MS15-004 ADC	Final Analysis for progenesis		
+Christie-Oleza Joseph	MS15-038 JCO1	OT_150220_14.mgf	20150223	F005428.dat
+Christie-Oleza Joseph	MS14-130 JCO1			
+Christie-Oleza Joseph	MS14-130 JCO1			
+Christie-Oleza Joseph	MS14-130 JCO1			
+Christie-Oleza Joseph	MS14-130 JCO1			
+Jones Alex	MS15-071 JG	OT_150224_11.mgf	20150225	F005441.dat
+Chen Yin	MS15-067 AS4	OT_150224_13.mgf	20150225	F005442.dat
+Chen Yin	MS15-067 AS4	OT_150224_15.mgf	20150225	F005443.dat
+Di Cola Alessandra	MS15-061 ADC	OT_150224_18.mgf	20150225	F005444.dat
+Di Cola Alessandra	MS15-061 ADC	OT_150224_20.mgf		
+Di Cola Alessandra	MS15-061 ADC	OT_150224_22.mgf	20150225	F005446.dat
+Di Cola Alessandra	MS15-061 ADC	OT_150224_24.mgf		
+Di Cola Alessandra	MS15-061 ADC	OT_150224_24.mgf		
+Di Cola Alessandra	MS15-061 ADC	OT_150224_20.mgf	20150225	F005448.dat
+Di Cola Alessandra	MS15-061 ADC	OT_150224_24.mgf	20150225	F005451.dat
